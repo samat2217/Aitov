@@ -18,3 +18,5 @@
 ![Database](https://github.com/samat2217/Aitov_IS-31K/blob/main/Снимок%20экрана%202024-09-19%20203317.png)
 ### Диаграмма поведения:
 ![Database](https://github.com/samat2217/Aitov_IS-31K/blob/main/Снимок%20экрана%202024-09-19%20204508.png)
+### Диаграмма последовательности
+![Database](https://github.com/samat2217/Aitov_IS-31K/blob/main/Снимок%20экрана%202024-09-19%20203807.png)
