@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.14">
+  <diagram name="Страница — 1" id="suAZqq5u53qgkHXT2Z2P">
+    <mxGraphModel dx="2072" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-1" value="Клиент Размещает Заказ" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="26" y="-10" width="244" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-2" value="Интернет Магазин Получает Заказ" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="52" y="89" width="190" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-3" value=" Система Доставки Создает Заказ" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="206" width="255" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-4" value="Назначить Метод Доставки" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="310" width="187" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-5" value="Сгенерировать Номер Отслеживания" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="36" y="439" width="223" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-6" value="Уведомить Курьера о Приеме" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="37" y="555" width="220" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-7" value="Курьер Подтверждает Прием" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="423" width="224" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-8" value="Предоставить Информацию об Отслеживании Клиенту" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="418" y="117" width="235" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-9" value="Курьер Доставляет Заказ" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="412" y="251" width="247" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-10" value="Клиент Подтверждает Доставку" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="423" y="350" width="225" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-11" value="Обновить Статус Заказа" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="417" y="466" width="237" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-12" value="Интернет Магазин Получает Подтверждение Доставки" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="565" width="251" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fCcsbYeRZrAIhlmwjb3S-1" target="fCcsbYeRZrAIhlmwjb3S-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="fCcsbYeRZrAIhlmwjb3S-2" target="fCcsbYeRZrAIhlmwjb3S-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fCcsbYeRZrAIhlmwjb3S-3" target="fCcsbYeRZrAIhlmwjb3S-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fCcsbYeRZrAIhlmwjb3S-4" target="fCcsbYeRZrAIhlmwjb3S-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="fCcsbYeRZrAIhlmwjb3S-5" target="fCcsbYeRZrAIhlmwjb3S-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fCcsbYeRZrAIhlmwjb3S-6" target="fCcsbYeRZrAIhlmwjb3S-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fCcsbYeRZrAIhlmwjb3S-7" target="fCcsbYeRZrAIhlmwjb3S-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fCcsbYeRZrAIhlmwjb3S-8" target="fCcsbYeRZrAIhlmwjb3S-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fCcsbYeRZrAIhlmwjb3S-9" target="fCcsbYeRZrAIhlmwjb3S-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="fCcsbYeRZrAIhlmwjb3S-10" target="fCcsbYeRZrAIhlmwjb3S-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fCcsbYeRZrAIhlmwjb3S-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="fCcsbYeRZrAIhlmwjb3S-11" target="fCcsbYeRZrAIhlmwjb3S-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
